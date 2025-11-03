@@ -32,5 +32,8 @@ public class Person
         p1.print();
         Person p2 = new Person("Jean", "jean@gmail.com", "404 899-9955");
         p2.print();
+        Person p3 = new Person("Tess", "tess@gmail.com", "909-834-0124");
+        p3.print();
+        
      }
   }
